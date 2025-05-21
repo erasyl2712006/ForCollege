@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ForCollege/static/css/main.9ab93a5f.css",
-    "main.js": "/ForCollege/static/js/main.1ef621f8.js",
+    "main.js": "/ForCollege/static/js/main.16a2cefb.js",
     "index.html": "/ForCollege/index.html",
     "main.9ab93a5f.css.map": "/ForCollege/static/css/main.9ab93a5f.css.map",
-    "main.1ef621f8.js.map": "/ForCollege/static/js/main.1ef621f8.js.map"
+    "main.16a2cefb.js.map": "/ForCollege/static/js/main.16a2cefb.js.map"
   },
   "entrypoints": [
     "static/css/main.9ab93a5f.css",
-    "static/js/main.1ef621f8.js"
+    "static/js/main.16a2cefb.js"
   ]
 }
